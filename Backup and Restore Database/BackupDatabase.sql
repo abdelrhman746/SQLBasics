@@ -1,0 +1,3 @@
+
+BACKUP DATABASE DB1
+TO DISK = 'c:\DB1.bak';
